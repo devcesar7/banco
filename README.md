@@ -39,3 +39,37 @@ conta1.transferir(300, conta2)
 print(conta1.saldo)
 print(conta2.saldo)
 ```
+
+## 📎 Requisitos
+Python 3.6 ou superior
+
+## 📁 Como usar
+Clone este repositório:
+
+```
+git clone https://github.com/devcesar7/banco.git
+```
+Entre no diretório:
+
+```
+cd banco
+```
+Rode o script:
+
+```
+python main.py
+```
+
+## 📚 Conceitos aplicados
+Encapsulamento
+
+Métodos privados e públicos
+
+Propriedades com @property
+
+Métodos estáticos
+
+Simulação de operações bancárias
+
+##🧑‍💻 Autor
+Desenvolvido por Cesar Augusto
